@@ -1,3 +1,10 @@
+DB_CONNECTION=mysql
+DB_HOST=containers-us-west-80.railway.app
+DB_PORT=7203
+DB_DATABASE=railway
+DB_USERNAME=root
+DB_PASSWORD=cJ7DVSBOWViPQ0NHCdef
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
